@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "516181294134",
+    "project_id": "gitachanting-cba41",
+    "storage_bucket": "gitachanting-cba41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516181294134:android:aae1cd16bdb40e643eac97",
+        "android_client_info": {
+          "package_name": "com.example.gitachanting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516181294134-kliho3cuihu1v93a0hnakqs37kpc96hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gitachanting",
+            "certificate_hash": "c9577f767eae876b12c06fb0d21c17708a8188dd"
+          }
+        },
+        {
+          "client_id": "516181294134-o83oh4spa505qpneuhol1ope9jrq82bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1lYY7-oNmufvTRd04BgzGveAnJWlQwF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516181294134-o83oh4spa505qpneuhol1ope9jrq82bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
