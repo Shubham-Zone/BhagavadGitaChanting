@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "516181294134",
-    "project_id": "gitachanting-cba41",
-    "storage_bucket": "gitachanting-cba41.appspot.com"
+    "project_number": "REPLACE_PROJECT_NUMBER",
+    "project_id": "REPLACE_PROJECT_ID",
+    "storage_bucket": "REPLACE_STORAGE_BUCKET"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:516181294134:android:aae1cd16bdb40e643eac97",
+        "mobilesdk_app_id": "REPLACE_MOBILESDK_APP_ID",
         "android_client_info": {
-          "package_name": "com.example.gitachanting"
+          "package_name": "REPLACE_PACKAGE_NAME"
         }
       },
       "oauth_client": [
         {
-          "client_id": "516181294134-kliho3cuihu1v93a0hnakqs37kpc96hs.apps.googleusercontent.com",
+          "client_id": "REPLACE_CLIENT_ID_1",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.gitachanting",
-            "certificate_hash": "c9577f767eae876b12c06fb0d21c17708a8188dd"
+            "package_name": "REPLACE_PACKAGE_NAME",
+            "certificate_hash": "REPLACE_CERTIFICATE_HASH"
           }
         },
         {
-          "client_id": "516181294134-o83oh4spa505qpneuhol1ope9jrq82bs.apps.googleusercontent.com",
+          "client_id": "REPLACE_CLIENT_ID_2",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB1lYY7-oNmufvTRd04BgzGveAnJWlQwF4"
+          "current_key": "REPLACE_API_KEY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "516181294134-o83oh4spa505qpneuhol1ope9jrq82bs.apps.googleusercontent.com",
+              "client_id": "REPLACE_CLIENT_ID_2",
               "client_type": 3
             }
           ]
@@ -43,5 +43,5 @@
       }
     }
   ],
-  "configuration_version": "1"
+  "configuration_version": "REPLACE_CONFIGURATION_VERSION"
 }
